@@ -83,6 +83,8 @@ Temporary Items
 ### Node modules ###
 node_modules/
 
+package-lock.json
+
 ### Distribution/build folder ###
 dist/
 .idea/
